@@ -10,4 +10,7 @@ async function init() {
 }
 
 
-init(); 
+init();
+
+//small commet added
+//added something
