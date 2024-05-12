@@ -8,4 +8,6 @@ async function init() {
     console.log("Result -> ", result);
 }
 
-init(); 
+init();
+
+//small commet added
